@@ -1,7 +1,7 @@
 # steel-manufacturing-finance-tools
 **Finance Executive | Aryan Ispat Limited | Jharsuguda**
 
-Excel-based MIS tools built from 8 years of DRI and MS Beam rolling mill finance experience.
+Excel-based MIS tools built from 2 years of DRI finance experience.
 
 ## Tools Included
 
